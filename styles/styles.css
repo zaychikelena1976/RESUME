@@ -50,6 +50,7 @@ body{
     width: 400px;
 }
 /* project styles */
+
 .prodjects{
    
 }
@@ -64,6 +65,7 @@ margin-bottom: 10px;
 }
 
 /* work styles */
+
 .work{
     
 }
@@ -99,10 +101,12 @@ margin-bottom: 10px;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;     
-        color: #595959;   
+        color: #595959;
+    
 }
 
 /* education styles */
+
 .education{
     font-style: normal;
     font-weight: normal;
